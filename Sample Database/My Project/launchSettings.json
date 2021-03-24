@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Sample Database": {
+      "commandName": "Project"
+    }
+  }
+}
